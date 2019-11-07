@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 8c5787eb8a612aa4d812a9835dda7723
+timeCreated: 1451753875
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: energypower6
+    21300002: energypower5
+    21300004: energypower8
+    21300006: energypower7
+    21300008: energypower2
+    21300010: energypower1
+    21300012: energypower4
+    21300014: enrgypower3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: energypower6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 337
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 84.5}
+        - {x: 59.5, y: 81.5}
+        - {x: 90.5, y: 63.5}
+        - {x: 61.5, y: 80.5}
+        - {x: 55.5, y: 84.5}
+        - {x: -63.5, y: 84.5}
+        - {x: -119.5, y: 33.5}
+        - {x: -126.5, y: 9.5}
+        - {x: -108.5, y: 2.5}
+        - {x: -168.5, y: 0.5}
+        - {x: -168.5, y: -33.5}
+        - {x: -73.5, y: -84.5}
+        - {x: 133.5, y: -84.5}
+        - {x: 168.5, y: -66.5}
+        - {x: 168.5, y: 44.5}
+        - {x: 154.5, y: 84.5}
+      tessellationDetail: -1
+    - name: energypower5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 337
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.5, y: 54.5}
+        - {x: 120.5, y: 84.5}
+        - {x: -28.5, y: 84.5}
+        - {x: -27.5, y: 81.5}
+        - {x: -85.5, y: 47.5}
+        - {x: -89.5, y: 39.5}
+        - {x: -86.5, y: 37.5}
+        - {x: -168.5, y: 5.5}
+        - {x: -168.5, y: -1.5}
+        - {x: -123.5, y: -13.5}
+        - {x: -66.5, y: -39.5}
+        - {x: -41.5, y: -49.5}
+        - {x: -13.5, y: -57.5}
+        - {x: -51.5, y: -69.5}
+        - {x: -53.5, y: -71.5}
+        - {x: -52.5, y: -74.5}
+        - {x: -24.5, y: -79.5}
+        - {x: 58.5, y: -80.5}
+        - {x: 71.5, y: -72.5}
+        - {x: 74.5, y: -69.5}
+        - {x: 74.5, y: -67.5}
+        - {x: 85.5, y: -61.5}
+        - {x: 59.5, y: -82.5}
+        - {x: 59.5, y: -84.5}
+        - {x: 81.5, y: -84.5}
+        - {x: 139.5, y: -70.5}
+        - {x: 168.5, y: -57.5}
+      tessellationDetail: -1
+    - name: energypower8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 337
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 84.5}
+        - {x: 59.5, y: 81.5}
+        - {x: 90.5, y: 63.5}
+        - {x: 61.5, y: 80.5}
+        - {x: 55.5, y: 84.5}
+        - {x: -63.5, y: 84.5}
+        - {x: -119.5, y: 33.5}
+        - {x: -126.5, y: 9.5}
+        - {x: -108.5, y: 2.5}
+        - {x: -168.5, y: 0.5}
+        - {x: -168.5, y: -33.5}
+        - {x: -73.5, y: -84.5}
+        - {x: 133.5, y: -84.5}
+        - {x: 168.5, y: -66.5}
+        - {x: 168.5, y: 44.5}
+        - {x: 154.5, y: 84.5}
+      tessellationDetail: -1
+    - name: energypower7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 337
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.5, y: 54.5}
+        - {x: 120.5, y: 84.5}
+        - {x: -28.5, y: 84.5}
+        - {x: -27.5, y: 81.5}
+        - {x: -85.5, y: 47.5}
+        - {x: -89.5, y: 39.5}
+        - {x: -86.5, y: 37.5}
+        - {x: -168.5, y: 5.5}
+        - {x: -168.5, y: -1.5}
+        - {x: -123.5, y: -13.5}
+        - {x: -66.5, y: -39.5}
+        - {x: -41.5, y: -49.5}
+        - {x: -13.5, y: -57.5}
+        - {x: -51.5, y: -69.5}
+        - {x: -53.5, y: -71.5}
+        - {x: -52.5, y: -74.5}
+        - {x: -24.5, y: -79.5}
+        - {x: 58.5, y: -80.5}
+        - {x: 71.5, y: -72.5}
+        - {x: 74.5, y: -69.5}
+        - {x: 74.5, y: -67.5}
+        - {x: 85.5, y: -61.5}
+        - {x: 59.5, y: -82.5}
+        - {x: 59.5, y: -84.5}
+        - {x: 81.5, y: -84.5}
+        - {x: 139.5, y: -70.5}
+        - {x: 168.5, y: -57.5}
+      tessellationDetail: -1
+    - name: energypower2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 0
+        width: 337
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 84.5}
+        - {x: 59.5, y: 81.5}
+        - {x: 90.5, y: 63.5}
+        - {x: 61.5, y: 80.5}
+        - {x: 55.5, y: 84.5}
+        - {x: -63.5, y: 84.5}
+        - {x: -119.5, y: 33.5}
+        - {x: -126.5, y: 9.5}
+        - {x: -108.5, y: 2.5}
+        - {x: -168.5, y: 0.5}
+        - {x: -168.5, y: -33.5}
+        - {x: -73.5, y: -84.5}
+        - {x: 133.5, y: -84.5}
+        - {x: 168.5, y: -66.5}
+        - {x: 168.5, y: 44.5}
+        - {x: 154.5, y: 84.5}
+      tessellationDetail: -1
+    - name: energypower1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 170
+        width: 337
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.5, y: 54.5}
+        - {x: 120.5, y: 84.5}
+        - {x: -28.5, y: 84.5}
+        - {x: -27.5, y: 81.5}
+        - {x: -85.5, y: 47.5}
+        - {x: -89.5, y: 39.5}
+        - {x: -86.5, y: 37.5}
+        - {x: -168.5, y: 5.5}
+        - {x: -168.5, y: -1.5}
+        - {x: -123.5, y: -13.5}
+        - {x: -66.5, y: -39.5}
+        - {x: -41.5, y: -49.5}
+        - {x: -13.5, y: -57.5}
+        - {x: -51.5, y: -69.5}
+        - {x: -53.5, y: -71.5}
+        - {x: -52.5, y: -74.5}
+        - {x: -24.5, y: -79.5}
+        - {x: 58.5, y: -80.5}
+        - {x: 71.5, y: -72.5}
+        - {x: 74.5, y: -69.5}
+        - {x: 74.5, y: -67.5}
+        - {x: 85.5, y: -61.5}
+        - {x: 59.5, y: -82.5}
+        - {x: 59.5, y: -84.5}
+        - {x: 81.5, y: -84.5}
+        - {x: 139.5, y: -70.5}
+        - {x: 168.5, y: -57.5}
+      tessellationDetail: -1
+    - name: energypower4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 340
+        width: 337
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 84.5}
+        - {x: 59.5, y: 81.5}
+        - {x: 90.5, y: 63.5}
+        - {x: 61.5, y: 80.5}
+        - {x: 55.5, y: 84.5}
+        - {x: -63.5, y: 84.5}
+        - {x: -119.5, y: 33.5}
+        - {x: -126.5, y: 9.5}
+        - {x: -108.5, y: 2.5}
+        - {x: -168.5, y: 0.5}
+        - {x: -168.5, y: -33.5}
+        - {x: -73.5, y: -84.5}
+        - {x: 133.5, y: -84.5}
+        - {x: 168.5, y: -66.5}
+        - {x: 168.5, y: 44.5}
+        - {x: 154.5, y: 84.5}
+      tessellationDetail: -1
+    - name: enrgypower3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 170
+        width: 337
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.5, y: 54.5}
+        - {x: 120.5, y: 84.5}
+        - {x: -28.5, y: 84.5}
+        - {x: -27.5, y: 81.5}
+        - {x: -85.5, y: 47.5}
+        - {x: -89.5, y: 39.5}
+        - {x: -86.5, y: 37.5}
+        - {x: -168.5, y: 5.5}
+        - {x: -168.5, y: -1.5}
+        - {x: -123.5, y: -13.5}
+        - {x: -66.5, y: -39.5}
+        - {x: -41.5, y: -49.5}
+        - {x: -13.5, y: -57.5}
+        - {x: -51.5, y: -69.5}
+        - {x: -53.5, y: -71.5}
+        - {x: -52.5, y: -74.5}
+        - {x: -24.5, y: -79.5}
+        - {x: 58.5, y: -80.5}
+        - {x: 71.5, y: -72.5}
+        - {x: 74.5, y: -69.5}
+        - {x: 74.5, y: -67.5}
+        - {x: 85.5, y: -61.5}
+        - {x: 59.5, y: -82.5}
+        - {x: 59.5, y: -84.5}
+        - {x: 81.5, y: -84.5}
+        - {x: 139.5, y: -70.5}
+        - {x: 168.5, y: -57.5}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

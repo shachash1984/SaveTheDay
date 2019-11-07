@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: efd8c8231ec4f4e498dd81cd1c9bbd9f
+timeCreated: 1462743468
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumpdown3
+    21300002: jumpdown4
+    21300004: jumpdown2
+    21300006: jumpdown5
+    21300008: jumpdown7
+    21300010: jumpdown6
+    21300012: jumpdown1
+    21300014: JumpDownSheet_0
+    21300016: JumpDownSheet_1
+    21300018: JumpDownSheet_2
+    21300020: JumpDownSheet_3
+    21300022: JumpDownSheet_4
+    21300024: JumpDownSheet_5
+    21300026: JumpDownSheet_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: JumpDownSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 796
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 34}
+        - {x: 34.5, y: 48}
+        - {x: 34.5, y: 71}
+        - {x: 29.5, y: 98}
+        - {x: -62.5, y: 98}
+        - {x: -67.5, y: 97}
+        - {x: -99.5, y: -9}
+        - {x: -99.5, y: -25}
+        - {x: -72.5, y: -26}
+        - {x: -96.5, y: -62}
+        - {x: -99.5, y: -89}
+        - {x: -99.5, y: -98}
+        - {x: 30.5, y: -98}
+        - {x: 99.5, y: 39}
+        - {x: 99.5, y: 69}
+        - {x: 30.5, y: 36}
+    - name: JumpDownSheet_1
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 684
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: 47}
+        - {x: -12.5, y: 73}
+        - {x: -25.5, y: 74}
+        - {x: -36.5, y: 64}
+        - {x: -46.5, y: 49}
+        - {x: -16.5, y: 27}
+        - {x: -71.5, y: 48}
+        - {x: -70.5, y: 124}
+        - {x: -69.5, y: 152}
+        - {x: -77.5, y: 152}
+        - {x: -85.5, y: 149}
+        - {x: -85.5, y: -152}
+        - {x: -31.5, y: -152}
+        - {x: 51.5, y: -111}
+        - {x: 84.5, y: 17}
+        - {x: 85.5, y: 21}
+        - {x: 85.5, y: 41}
+    - name: JumpDownSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1100
+        width: 484
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 113.5}
+        - {x: -60.5, y: 73.5}
+        - {x: -60.5, y: -113.5}
+        - {x: 60.5, y: -113.5}
+        - {x: 60.5, y: 104.5}
+        - {x: 55.5, y: 113.5}
+    - name: JumpDownSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1076
+        width: 652
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 109}
+        - {x: -26.5, y: 82}
+        - {x: -81.5, y: -48}
+        - {x: -81.5, y: -109}
+        - {x: 43.5, y: -109}
+        - {x: 81.5, y: -42}
+        - {x: 81.5, y: 81}
+        - {x: 65.5, y: 109}
+    - name: JumpDownSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 904
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113, y: 137.5}
+        - {x: -113, y: -4.5}
+        - {x: -110, y: -137.5}
+        - {x: 35, y: -137.5}
+        - {x: 113, y: -26.5}
+        - {x: 113, y: 77.5}
+        - {x: -107, y: 137.5}
+    - name: JumpDownSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 0
+        width: 712
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 69.5}
+        - {x: -84, y: 137.5}
+        - {x: -89, y: 137.5}
+        - {x: -89, y: -51.5}
+        - {x: -62, y: -137.5}
+        - {x: 77, y: -137.5}
+        - {x: 83, y: -135.5}
+        - {x: 89, y: -114.5}
+        - {x: 89, y: 57.5}
+        - {x: 8, y: 77.5}
+    - name: JumpDownSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 680
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 12.5}
+        - {x: 65, y: 6.5}
+        - {x: 56, y: 22.5}
+        - {x: 52, y: 25.5}
+        - {x: 23, y: 50.5}
+        - {x: -17, y: 50.5}
+        - {x: -15, y: 40.5}
+        - {x: -37, y: 134.5}
+        - {x: -47, y: 134.5}
+        - {x: -69, y: 27.5}
+        - {x: -85, y: -43.5}
+        - {x: -85, y: -134.5}
+        - {x: 42, y: -134.5}
+        - {x: 85, y: -66.5}
+        - {x: 85, y: 11.5}
+        - {x: 83, y: 12.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

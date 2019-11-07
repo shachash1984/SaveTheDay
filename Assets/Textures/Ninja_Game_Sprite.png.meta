@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 493ef443aa646e1429b98f523976b4c6
+timeCreated: 1446919911
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ninja_Game_Sprite_0
+    21300002: Ninja_Game_Sprite_1
+    21300004: Ninja_Game_Sprite_2
+    21300006: Ninja_Game_Sprite_3
+    21300008: Ninja_Game_Sprite_4
+    21300010: Ninja_Game_Sprite_5
+    21300012: Ninja_Game_Sprite_6
+    21300014: Ninja_Game_Sprite_7
+    21300016: Ninja_Game_Sprite_8
+    21300018: Ninja_Game_Sprite_9
+    21300020: Ninja_Game_Sprite_10
+    21300022: Ninja_Game_Sprite_11
+    21300024: Ninja_Game_Sprite_12
+    21300026: Ninja_Game_Sprite_13
+    21300028: Ninja_Game_Sprite_14
+    21300030: Ninja_Game_Sprite_15
+    21300032: Ninja_Game_Sprite_16
+    21300034: Ninja_Game_Sprite_17
+    21300036: Ninja_Game_Sprite_18
+    21300038: Ninja_Game_Sprite_19
+    21300040: Ninja_Game_Sprite_20
+    21300042: Ninja_Game_Sprite_21
+    21300044: Ninja_Game_Sprite_22
+    21300046: Ninja_Game_Sprite_23
+    21300048: Ninja_Game_Sprite_24
+    21300050: Ninja_Game_Sprite_25
+    21300052: Ninja_Game_Sprite_26
+    21300054: Ninja_Game_Sprite_27
+    21300056: Ninja_Game_Sprite_28
+    21300058: Ninja_Game_Sprite_29
+    21300060: Ninja_Game_Sprite_30
+    21300062: Ninja_Game_Sprite_31
+    21300064: Ninja_Game_Sprite_32
+    21300066: Ninja_Game_Sprite_33
+    21300068: Ninja_Game_Sprite_34
+    21300070: Ninja_Game_Sprite_35
+    21300072: Ninja_Game_Sprite_36
+    21300074: Ninja_Game_Sprite_37
+    21300076: Ninja_Game_Sprite_38
+    21300078: Ninja_Game_Sprite_39
+    21300080: Ninja_Game_Sprite_40
+    21300082: Ninja_Game_Sprite_41
+    21300084: Ninja_Game_Sprite_42
+    21300086: Ninja_Game_Sprite_43
+    21300088: Ninja_Game_Sprite_44
+    21300090: Ninja_Game_Sprite_45
+    21300092: Ninja_Game_Sprite_46
+    21300094: Ninja_Game_Sprite_47
+    21300096: Ninja_Game_Sprite_48
+    21300098: Ninja_Game_Sprite_49
+    21300100: Ninja_Game_Sprite_50
+    21300102: Ninja_Game_Sprite_51
+    21300104: Ninja_Game_Sprite_52
+    21300106: Ninja_Game_Sprite_53
+    21300108: Ninja_Game_Sprite_54
+    21300110: Ninja_Game_Sprite_55
+    21300112: Ninja_Game_Sprite_56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ninja_Game_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 442
+        width: 40
+        height: 60
+      alignment: 9
+      pivot: {x: 0, y: .403736383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 442
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 441
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 441
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 367
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 366
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 369
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 365
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 369
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 366
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 377
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 367
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 371
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 377
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 377
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 291
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 291
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 289
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 290
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 282
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 282
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 291
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 215
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 289
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 222
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 223
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 221
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 222
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 220
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 219
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 220
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 143
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 140
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 71
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 142
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 140
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 72
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 72
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 70
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 9
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 7
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 5
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 9
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 7
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 8
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 10
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 440
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 440
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 274
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ninja_Game_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: ninja_run
+  assetBundleVariant: 

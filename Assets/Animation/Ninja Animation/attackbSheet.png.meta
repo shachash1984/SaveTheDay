@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 968541fb517ba084582d05aa997eeae6
+timeCreated: 1451139054
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attackb6
+    21300002: attackb8
+    21300004: attackb9
+    21300006: attackb7
+    21300008: attackb5
+    21300010: attackb10
+    21300012: attackb2
+    21300014: attackb1
+    21300016: attackb4
+    21300018: attackb3
+    21300020: attackb91
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: attackb6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1345
+        height: 1049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153.5, y: -85.5}
+        - {x: -153.5, y: -86.5}
+        - {x: -149.5, y: -95.5}
+        - {x: -142.5, y: -106.5}
+        - {x: -124.5, y: -125.5}
+        - {x: -121.5, y: -123.5}
+        - {x: -121.5, y: -119.5}
+        - {x: -109.5, y: -113.5}
+        - {x: -107.5, y: -107.5}
+        - {x: -127.5, y: -78.5}
+        - {x: -89.5, y: -124.5}
+        - {x: 168.5, y: -4.5}
+        - {x: 168.5, y: 124.5}
+        - {x: 128.5, y: 131.5}
+        - {x: -57.5, y: 131.5}
+        - {x: -50.5, y: 100.5}
+        - {x: -20.5, y: 101.5}
+        - {x: -0.5, y: 104.5}
+        - {x: -13.5, y: 97.5}
+        - {x: -16.5, y: 90.5}
+        - {x: -14.5, y: 59.5}
+        - {x: -102.5, y: 66.5}
+        - {x: -168.5, y: 29.5}
+        - {x: -168.5, y: -90.5}
+        - {x: -167.5, y: -93.5}
+        - {x: -137.5, y: -131.5}
+        - {x: -126.5, y: -131.5}
+        - {x: -126.5, y: -129.5}
+        - {x: -144.5, y: -105.5}
+        - {x: -152.5, y: -90.5}
+      - - {x: 165.5, y: -51.5}
+        - {x: 167.5, y: -53.5}
+        - {x: 168.5, y: -53.5}
+        - {x: 168.5, y: -17.5}
+        - {x: 165.5, y: -18.5}
+      - - {x: -67.5, y: 131.5}
+        - {x: -66.5, y: 128.5}
+        - {x: -60.5, y: 128.5}
+        - {x: -58.5, y: 130.5}
+        - {x: -58.5, y: 131.5}
+      tessellationDetail: -1
+    - name: attackb8
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 0
+        width: 1128
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: -31.5}
+        - {x: 125, y: -59.5}
+        - {x: 118, y: -69.5}
+        - {x: 118, y: -70.5}
+        - {x: 114, y: -74.5}
+        - {x: 114, y: -75.5}
+        - {x: 112, y: -75.5}
+        - {x: 116, y: -71.5}
+        - {x: 123, y: -61.5}
+        - {x: 127, y: -52.5}
+        - {x: 133, y: -39.5}
+        - {x: 133, y: -31.5}
+        - {x: 132, y: -28.5}
+        - {x: 126, y: -30.5}
+        - {x: 116, y: -21.5}
+        - {x: 111, y: -21.5}
+        - {x: 99, y: -44.5}
+        - {x: 93, y: -21.5}
+        - {x: 82, y: 1.5}
+        - {x: 48, y: 61.5}
+        - {x: 36, y: 35.5}
+        - {x: 38, y: 27.5}
+        - {x: 24, y: 13.5}
+        - {x: 15, y: 123.5}
+        - {x: -73, y: 123.5}
+        - {x: -96, y: 120.5}
+        - {x: -141, y: 34.5}
+        - {x: -141, y: -65.5}
+        - {x: -140, y: -69.5}
+        - {x: -130, y: -71.5}
+        - {x: -113, y: -16.5}
+        - {x: -84, y: 10.5}
+        - {x: -110, y: -15.5}
+        - {x: -116, y: -31.5}
+        - {x: -105, y: -106.5}
+        - {x: 12, y: -123.5}
+        - {x: 63, y: -123.5}
+        - {x: 135, y: -87.5}
+        - {x: 142, y: -55.5}
+        - {x: 142, y: -27.5}
+      - - {x: -141, y: 45.5}
+        - {x: -138, y: 46.5}
+        - {x: -138, y: 49.5}
+        - {x: -140, y: 51.5}
+        - {x: -141, y: 51.5}
+      tessellationDetail: -1
+    - name: attackb9
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 0
+        width: 789
+        height: 1375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.25, y: -150}
+        - {x: 4.75, y: -154}
+        - {x: 27.75, y: -146}
+        - {x: 27.75, y: -141}
+        - {x: -8.25, y: -134}
+        - {x: 15.75, y: -127}
+        - {x: 20.75, y: -120}
+        - {x: 22.75, y: -117}
+        - {x: 45.75, y: -45}
+        - {x: 39.75, y: -23}
+        - {x: 99.75, y: 143}
+        - {x: 99.75, y: 172}
+        - {x: -25.25, y: 172}
+        - {x: -98.25, y: 103}
+        - {x: -98.25, y: 52}
+        - {x: -93.25, y: 47}
+        - {x: -88.25, y: 48}
+        - {x: -78.25, y: 64}
+        - {x: -47.25, y: 86}
+        - {x: -63.25, y: 73}
+        - {x: -71.25, y: 62}
+        - {x: -48.25, y: 44}
+        - {x: -33.25, y: 42}
+        - {x: -21.25, y: 57}
+        - {x: -31.25, y: 39}
+        - {x: -86.25, y: -33}
+        - {x: -89.25, y: -40}
+        - {x: -98.25, y: -49}
+        - {x: -98.25, y: -121}
+        - {x: -73.25, y: -172}
+        - {x: 30.75, y: -172}
+        - {x: 29.75, y: -170}
+        - {x: 27.75, y: -168}
+        - {x: 27.75, y: -159}
+      tessellationDetail: -1
+    - name: attackb7
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 988
+        width: 913
+        height: 1113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -101.5}
+        - {x: 109, y: -97.5}
+        - {x: 102, y: -95.5}
+        - {x: 54, y: -103.5}
+        - {x: 33, y: -98.5}
+        - {x: 46, y: -100.5}
+        - {x: 73, y: -95.5}
+        - {x: 112, y: -70.5}
+        - {x: 115, y: -63.5}
+        - {x: 115, y: -10.5}
+        - {x: 99, y: 85.5}
+        - {x: 64, y: 136.5}
+        - {x: 42, y: 139.5}
+        - {x: -44, y: 139.5}
+        - {x: -42, y: 133.5}
+        - {x: -18, y: 133.5}
+        - {x: 9, y: 129.5}
+        - {x: 11, y: 128.5}
+        - {x: 13, y: 128.5}
+        - {x: 9, y: 128.5}
+        - {x: 8, y: 129.5}
+        - {x: 2, y: 130.5}
+        - {x: -6, y: 131.5}
+        - {x: -22, y: 131.5}
+        - {x: -36, y: 129.5}
+        - {x: -40, y: 123.5}
+        - {x: -39, y: 106.5}
+        - {x: -31, y: 87.5}
+        - {x: -27, y: 81.5}
+        - {x: -75, y: 47.5}
+        - {x: -65, y: 13.5}
+        - {x: -57, y: 12.5}
+        - {x: -112, y: -56.5}
+        - {x: -114, y: -62.5}
+        - {x: -114, y: -84.5}
+        - {x: -77, y: -117.5}
+        - {x: -52, y: -131.5}
+        - {x: -44, y: -133.5}
+        - {x: -31, y: -137.5}
+        - {x: -22, y: -139.5}
+        - {x: 35, y: -139.5}
+        - {x: 55, y: -132.5}
+        - {x: 76, y: -125.5}
+        - {x: 90, y: -118.5}
+      - - {x: 112, y: 59.5}
+        - {x: 114, y: 57.5}
+        - {x: 115, y: 57.5}
+        - {x: 115, y: 63.5}
+        - {x: 112, y: 62.5}
+      tessellationDetail: -1
+    - name: attackb5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 921
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 99.5}
+        - {x: 56.5, y: 99.5}
+        - {x: 57.5, y: 96.5}
+        - {x: 63.5, y: 96.5}
+        - {x: 61.5, y: 96.5}
+        - {x: 10.5, y: 87.5}
+        - {x: 7.5, y: 77.5}
+        - {x: 16.5, y: 73.5}
+        - {x: 31.5, y: 60.5}
+        - {x: 35.5, y: 60.5}
+        - {x: -31.5, y: 55.5}
+        - {x: -115.5, y: 89.5}
+        - {x: -115.5, y: 80.5}
+        - {x: -109.5, y: 72.5}
+        - {x: -14.5, y: -98.5}
+        - {x: 17.5, y: -98.5}
+        - {x: 83.5, y: -78.5}
+        - {x: 115.5, y: -28.5}
+        - {x: 115.5, y: 49.5}
+      - - {x: 98.5, y: -98.5}
+        - {x: 97.5, y: -95.5}
+        - {x: 88.5, y: -95.5}
+        - {x: 87.5, y: -98.5}
+      tessellationDetail: -1
+    - name: attackb91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1841
+        width: 752
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 38.75}
+        - {x: 9, y: 30.75}
+        - {x: 20, y: 24.75}
+        - {x: -32, y: 42.75}
+        - {x: -90, y: 120.75}
+        - {x: -94, y: 120.75}
+        - {x: -94, y: 104.75}
+        - {x: -42, y: 15.75}
+        - {x: -4, y: -8.25}
+        - {x: -41, y: -76.25}
+        - {x: -29, y: -120.25}
+        - {x: 94, y: -120.25}
+        - {x: 94, y: 40.75}
+        - {x: 65, y: 54.75}
+      tessellationDetail: -1
+    - name: attackb2
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 0
+        width: 669
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.25, y: 125.5}
+        - {x: 65.25, y: 40.5}
+        - {x: 58.25, y: 56.5}
+        - {x: 53.25, y: 64.5}
+        - {x: 30.25, y: 72.5}
+        - {x: -32.75, y: 60.5}
+        - {x: -22.75, y: 50.5}
+        - {x: -15.75, y: 47.5}
+        - {x: -1.75, y: 48.5}
+        - {x: -10.75, y: 47.5}
+        - {x: -13.75, y: 45.5}
+        - {x: -9.75, y: 27.5}
+        - {x: -83.75, y: -20.5}
+        - {x: -83.75, y: -73.5}
+        - {x: -25.75, y: -125.5}
+        - {x: 69.25, y: -125.5}
+        - {x: 84.25, y: -81.5}
+        - {x: 84.25, y: 58.5}
+        - {x: 55.25, y: 118.5}
+        - {x: 47.25, y: 125.5}
+      - - {x: -35.75, y: 123.5}
+        - {x: -35.75, y: 125.5}
+        - {x: -40.75, y: 125.5}
+        - {x: -38.75, y: 122.5}
+      tessellationDetail: -1
+    - name: attackb1
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1005
+        width: 607
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.25, y: 117.25}
+        - {x: -4.75, y: 117.25}
+        - {x: -4.75, y: 114.25}
+        - {x: -48.75, y: 65.25}
+        - {x: -75.75, y: -3.75}
+        - {x: -75.75, y: -57.75}
+        - {x: -59.75, y: -46.75}
+        - {x: -29.75, y: -36.75}
+        - {x: -57.75, y: -46.75}
+        - {x: -75.75, y: -67.75}
+        - {x: -75.75, y: -87.75}
+        - {x: -63.75, y: -116.75}
+        - {x: -3.75, y: -116.75}
+        - {x: 76.25, y: -8.75}
+        - {x: 76.25, y: 49.25}
+        - {x: 12.25, y: 116.25}
+      - - {x: 54.25, y: -116.75}
+        - {x: 53.25, y: -113.75}
+        - {x: 49.25, y: -113.75}
+        - {x: 48.25, y: -116.75}
+      tessellationDetail: -1
+    - name: attackb4
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1841
+        width: 538
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.25, y: -118.75}
+        - {x: -52.25, y: -118.75}
+        - {x: -53.25, y: -115.75}
+        - {x: -64.25, y: -115.75}
+      - - {x: -67.25, y: 79.25}
+        - {x: -22.25, y: 90.25}
+        - {x: -67.25, y: -0.75}
+        - {x: -67.25, y: -118.75}
+        - {x: 7.75, y: -118.75}
+        - {x: 67.75, y: -48.75}
+        - {x: 67.75, y: 119.25}
+        - {x: -31.25, y: 119.25}
+        - {x: -67.25, y: 115.25}
+      - - {x: -67.25, y: -82.75}
+        - {x: -64.25, y: -81.75}
+        - {x: -64.25, y: -72.75}
+        - {x: -66.25, y: -70.75}
+        - {x: -67.25, y: -70.75}
+      tessellationDetail: -1
+    - name: attackb3
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1376
+        width: 575
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 109}
+        - {x: -67, y: 109}
+        - {x: -68, y: 100}
+        - {x: -72, y: 20}
+        - {x: -72, y: -9}
+        - {x: -71, y: -10}
+        - {x: -67, y: -13}
+        - {x: -53, y: -14}
+        - {x: -60, y: -40}
+        - {x: -61, y: -44}
+        - {x: -56, y: -48}
+        - {x: -68, y: -84}
+        - {x: -56, y: -109}
+        - {x: -42, y: -109}
+        - {x: 35, y: -48}
+        - {x: 72, y: 42}
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
